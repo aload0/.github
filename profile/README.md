@@ -25,7 +25,7 @@ Thank you for your support!
 ---
 
 ### Community
-* **[Discord](https://discord.gg/8Gu6YCq2eS)**
+* **[Discord](https://discord.gg/46wCMRVAre)**
 
 ---
 Managed by [@PranavPurwar](https://github.com/PranavPurwar)

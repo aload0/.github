@@ -2,7 +2,7 @@
   
 # 👋 Hey there, I'm aload0!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things;Building+Cool+Stuff!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things;Building+Cool+Stuff!" alt="Typing SVG" />
 
 </div>
 
@@ -54,7 +54,7 @@ I'm a passionate developer who loves crafting elegant solutions to complex probl
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aload0&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aload0&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=aload0&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aload0&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
@@ -81,12 +81,21 @@ const aload0 = {
 
 ## 📫 Let's Connect!
 
+<!-- 
+  Customize the links below with your actual social media profiles.
+  Remove any badges for platforms you don't use.
+  Add more platforms as needed (Discord, Dev.to, Medium, etc.)
+-->
+
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aload0)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aload0)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aload0)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aload0@example.com)
+
+<!-- Uncomment and update these with your actual profile links:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-username)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@domain.com)
+-->
 
 </div>
 

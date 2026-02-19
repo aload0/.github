@@ -28,4 +28,3 @@ Thank you for your support!
 * **[Discord](https://discord.gg/46wCMRVAre)**
 
 ---
-Managed by [@PranavPurwar](https://github.com/PranavPurwar)

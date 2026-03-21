@@ -18,7 +18,7 @@ I'm committed to keeping the software completely free, but I need your help to m
 Your donation will help cover the costs of development and maintenance. It will also help add new features and improve the experience for everyone. Even a small donation makes a big difference.
 
 * **Direct Support:** [pranavpurwar.github.io/donate.html](https://pranavpurwar.github.io/donate.html)
-* **Open Collective:** [opencollective.com/aload0](https://opencollective.com/aload0)
+* **Open Collective:** [opencollective.com/aload0](https://opencollective.com/invokevirtual)
 
 Thank you for your support!
 
